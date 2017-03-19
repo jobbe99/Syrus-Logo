@@ -1,5 +1,6 @@
 === Syrus Logo ===
-Contributors: tinkerpriest
+Contributors: Syrus Industry
+Donate link: http://www.syrusindustry.com
 Tags: admin, logo, login
 Text Domain: add-logo
 Domain Path: /languages
