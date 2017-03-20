@@ -96,6 +96,7 @@ body.login div#login h1 a {
     background-image: url(<?php echo esc_url( $image ); ?>);
     background-size: inherit;
     width: 100%;
+    height: 110px;
 }
 </style>
             <?php
